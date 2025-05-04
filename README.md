@@ -1,10 +1,15 @@
-# FarmConnect_CSE311_Project
+## FarmConnect: A Government-Mediated Agricultural Trading System
+
 FarmConnect is a database-driven platform designed to facilitate direct transactions between farmers and
 the government, eliminate third-party interference, and ensure fair pricing for agricultural products. The
 government acts as an intermediary, purchasing goods from farmers and selling them to vendors with a
 fixed 10% tax, which serves as government revenue. To prevent monopolization, vendors are assessed and
 classified, with purchase limits set based on their profile. The system promotes fairness, transparency, and
 economic sustainability for farmers while maintaining market balance.
+
+
+## Features
+
 Our database system,FarmConnect, is a robust platform designed to ensure fair and efficient agricultural
 trade in Bangladesh. It empowers farmers by enabling them to directly sell their products to the government,
 eliminating third-party interference and maximizing their profits. The system also allows governmentapproved vendors to place product orders under monitored conditions, maintaining fair distribution and
@@ -20,4 +25,12 @@ The government table stores gov_id, official_name, department, role, and contact
 tax_collected, and transaction_date.
 By integrating all stakeholders into a centralized and monitored system, FarmConnect ensures fair pricing,
 equitable vendor access, and transparent tax management, fostering a sustainable agricultural economy.
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+![Logo](https://brandeps.com/logo-download/N/North-South-University-logo-vector-01.svg)
 
