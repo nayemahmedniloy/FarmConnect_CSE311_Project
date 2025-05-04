@@ -29,8 +29,18 @@ tax_collected, and transaction_date.
 By integrating all stakeholders into a centralized and monitored system, FarmConnect ensures fair pricing,
 equitable vendor access, and transparent tax management, fostering a sustainable agricultural economy.
 
+## Database Screenshots
+
+![Image](https://github.com/user-attachments/assets/d0602cec-e2af-4041-8c4c-452060a86d80)
+![Image](https://github.com/user-attachments/assets/b3a7e769-5363-4160-853e-53b2709c462f)
+![Image](https://github.com/user-attachments/assets/b28d97f3-cda9-4186-af9e-78b8aa7f8382)
+![Image](https://github.com/user-attachments/assets/55bd69be-8da3-42ef-baf2-4e8e5cc451cb)
+![Image](https://github.com/user-attachments/assets/2d20127c-709d-4ce0-b9a5-a329c2c8ad8e)
+![Image](https://github.com/user-attachments/assets/5d15723f-fa3a-4550-8e58-81b11a885ba4)
+
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+![Image](https://github.com/user-attachments/assets/0f265c87-443f-4f67-a770-761bcabf707e)
