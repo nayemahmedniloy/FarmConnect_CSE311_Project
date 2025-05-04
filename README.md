@@ -7,6 +7,9 @@ fixed 10% tax, which serves as government revenue. To prevent monopolization, ve
 classified, with purchase limits set based on their profile. The system promotes fairness, transparency, and
 economic sustainability for farmers while maintaining market balance.
 
+![Image](https://github.com/user-attachments/assets/56346773-a304-4e60-a75e-219c5142db3a)
+![Image](https://github.com/user-attachments/assets/ad909d7f-b53d-43e0-bc42-ff5c538a3a25)
+![Image](https://github.com/user-attachments/assets/59000def-f6f6-45a9-bdb6-cbaeedc7145f)
 
 ## Features
 
@@ -30,7 +33,4 @@ equitable vendor access, and transparent tax management, fostering a sustainable
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
-![Logo](https://brandeps.com/logo-download/N/North-South-University-logo-vector-01.svg)
 
